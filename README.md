@@ -7,10 +7,10 @@ __STEPS__
 * Open the software.
 * A dialog box will appear which shows the PRODUCT ID.
 
-![GitHub Logo](https://github.com/amWRit/KeyGenerator/blob/master/key.png)
+![Ask for key](https://github.com/amWRit/KeyGenerator/blob/master/key.png)
 
 * Use that PRODUCT ID to generate key from this __KeyGenerator__.
 
-![GitHub Logo](https://github.com/amWRit/KeyGenerator/blob/master/key_generator.PNG)
+![Generate Key](https://github.com/amWRit/KeyGenerator/blob/master/key_generator.PNG)
 
 * Give the key to the software user to register the product as a full version.
